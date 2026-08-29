@@ -8,9 +8,7 @@ Now, first open your terminal/powershell and clone the repository
 git clone https://github.com/misalignedink/random-password-generator.git
 ```
 
-Then,
-
-change the directory and run the python script using this commands,
+Then, change the directory and run the python script using this commands,
 
 ```bash
 cd random-password-generator

@@ -1,8 +1,8 @@
 # Random Password Generator
 
-Make sure you've `git` and `python` installed in your computer.
+Make sure you have `git` and `python` installed in your computer.
 
-Now, first open your terminal/powershell and clone the repository
+Now, first open your terminal and clone the repository
 
 ```bash
 git clone https://github.com/misalignedink/random-password-generator.git

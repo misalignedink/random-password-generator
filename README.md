@@ -17,3 +17,8 @@ python3 main.py
 
 and, secure your digital addresses.
 
+<p align="center">
+  <img src="./Screencast.gif" alt="Animated GIF of the terminal" width="500">
+</p>
+
+
